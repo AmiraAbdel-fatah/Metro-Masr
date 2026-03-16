@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Metro Masr</string>
+    <string name="image_title">Your Guide to Cairo Metro</string>
+    <string name="origin">Start</string>
+    <string name="destination">Destination</string>
+    <string name="plan_trip">Plan Trip</string>
+    <string name="trip_details">Trip Details</string>
+    <string name="trip_journey">Trip Journey</string>
+    <string name="directions">Directions</string>
+    <string name="fare">Fare</string>
+    <string name="time">Time</string>
+    <string name="minute">Minutes</string>
+    <string name="transfers">Transfers</string>
+    <string name="stations">Stations</string>
+    <string name="starting_point">Starting Point</string>
+    <string name="destination_reached">Destination Reached</string>
+    <string name="egp">EGP</string>
+    <string name="info_select_stations">Choose your stations to see ticket pricing and the fastest route.</string>
+    <string name="optimal">OPTIMAL</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="arabic">Arabic</string>
+    <string name="theme">Theme</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="system_default">System Default</string>
+    <string name="recent_search">Recent Search</string>
+</resources>

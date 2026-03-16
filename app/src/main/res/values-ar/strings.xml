@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مترو مصر</string>
+    <string name="image_title">دليلك لمترو مصر</string>
+    <string name="origin">محطةالقيام</string>
+    <string name="destination">محطةالوصول</string>
+    <string name="plan_trip">تخطيط الرحلة</string>
+    <string name="trip_details">تفاصيلاالرحلة</string>
+    <string name="trip_journey">مسار الرحلة</string>
+    <string name="directions">الاتجاهات</string>
+    <string name="fare">سعر التذكرة</string>
+    <string name="time">الوقت المتوقع</string>
+    <string name="minute">دقيقة</string>
+    <string name="transfers">التبديلات</string>
+    <string name="stations">المحطات</string>
+    <string name="starting_point">نقطة الانطلاق</string>
+    <string name="destination_reached">وصلت لوجهتك</string>
+    <string name="egp">جنيه</string>
+    <string name="info_select_stations">حدد محطاتك لمعرفة سعر التذكرة وأسرع طريق للوصول.</string>
+    <string name="optimal">الأفضل</string>
+    <string name="settings">الإعدادات</string>
+    <string name="language">اللغة</string>
+    <string name="english">الإنجليزية</string>
+    <string name="arabic">العربية</string>
+    <string name="theme">المظهر</string>
+    <string name="light_mode">الوضع الفاتح</string>
+    <string name="dark_mode">الوضع الداكن</string>
+    <string name="system_default">تلقائي (حسب النظام)</string>
+    <string name="recent_search">البحث الأخير</string>
+</resources>

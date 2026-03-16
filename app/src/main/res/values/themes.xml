@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Use an AppCompat theme so AppCompatActivity can start correctly -->
+    <style name="Theme.Metro_Masr" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Status bar and navigation bar will be handled by EdgeToEdge in Compose -->
+    </style>
+</resources>
