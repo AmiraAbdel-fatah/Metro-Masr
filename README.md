@@ -47,4 +47,4 @@ Contributions are welcome! If you have any ideas to improve the routing algorith
 
 feel free to open an issue or submit a pull request.
 
-Developed with by [Amira Abdel-fatah]
+Developed by [Amira Abdel-fatah]
